@@ -1,0 +1,4 @@
+FileName=spool_8-1corrected.tif;
+
+Sx	Sy	Start	End	Flag	Peak
+35	6	1	1261	1	1
